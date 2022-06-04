@@ -1,3 +1,5 @@
+# Issues: Making Bots Fun
+
 For issues with any Making Bots Fun's bots, please state in the title a brief description of the issue and in the description:
 
 Which bot you are talking about
